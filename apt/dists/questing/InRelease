@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Amiberry
+Label: Amiberry
+Suite: stable
+Codename: questing
+Date: Wed, 05 Aug 2026 17:48:16 UTC
+Architectures: amd64 arm64
+Components: main
+Description: Amiberry APT repository (Ubuntu 25.10 Questing)
+MD5Sum:
+ f8c994c1a4ae41d302917680c0c548a8 1464 main/binary-amd64/Packages
+ 3854c3301a566623c406c3fe2d07141d 809 main/binary-amd64/Packages.gz
+ 1857f3faf3c90551dca916c0595e3e42 146 main/binary-amd64/Release
+ 912da48f1a8039a2a024f028acf2d735 1536 main/binary-arm64/Packages
+ e06ef6ed3a54f4553337dd4dcea92e64 829 main/binary-arm64/Packages.gz
+ b96b4e493cf57bc9bb09c8edd791285c 146 main/binary-arm64/Release
+SHA1:
+ b90d8768950e0fe7cb4e85b2903ec619f962ed4a 1464 main/binary-amd64/Packages
+ 0c7e352c253a4794f08f3c520ebf709b193abd6e 809 main/binary-amd64/Packages.gz
+ 1a5493df0e0852cf5f0b8be4e83dd4415d8d249b 146 main/binary-amd64/Release
+ 5ac99dd71a50da17a1d17c4dcdda01079eafb2bf 1536 main/binary-arm64/Packages
+ 731ca7206bc869a0207aea1faf2e3047e96e713f 829 main/binary-arm64/Packages.gz
+ 41ef83660beba28bb261b161498ccf9bdc8d84e9 146 main/binary-arm64/Release
+SHA256:
+ a7cad06082d18e437a6f01a441edd37ef8de4eeead5085843edd244c8af1f2a4 1464 main/binary-amd64/Packages
+ bd41c50bdd8c6d1624a19c451bc621720be6e79ae2e7f1ab5f3a8a048504586c 809 main/binary-amd64/Packages.gz
+ 23937f91bea1651b46f890e03e82621b9e2d04dc74f550714db73ca93ab5f91a 146 main/binary-amd64/Release
+ 87366a73a9c2bf50c3a02db4db6725570c5c0705f603f1b4d4d7039f29d4de43 1536 main/binary-arm64/Packages
+ e1889b45b24005da33c317825a5fecc8a0b02fc6c3e2d17e8fdd40681a43c26c 829 main/binary-arm64/Packages.gz
+ 902602739772d0a430431a92d83b5e33ac210bf990bd2ca09aa37a560ab73d79 146 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEJ0FjRofeLy2NaDkVJxbP5zDayogFAmpzd2AACgkQJxbP5zDa
+yojjbw//duVb7aTUZntnLhra6/uES/AJ2TaFHuhTcqx2kWmJAFMt60jKBo3O3d8/
+oSrwHM3QAh8cDbkZvSvBnzZpuNjpOfz33USv2itL2D8IAbUFG/yCSoAm3RzJj3SM
+I8+MX8r9Z4km7rI2kEGGCFFMo42DPU5qx7FpiT2EKXGoVoWniiMQlqDnJezkSp60
+NxuF5R9AiBBl8m1E7jXvdllbRP3DSIe2qw0v5NTfIAykF+hk058ef0nshCuEpMip
+FFmunUoYXgYpMr80kpzKiTVlTr/Q8VkXD3z+L8qfrn9hRdVqimkh8IdE3obAYD8N
+nuaWaDBSzunVGgBvtH+xAcTso1F7JmmIrs677aRVF9s5S9LnTgHcKPf4J+F4V5Uf
+qArnLa3T7Y05Vz9uco1gax/IQiZ2mhRUzw8e012JIVHGhnJUfQlZuRfqOu+NNYFH
+4BGnEBRTJl0dCv2YqnWH0v4U6QjK4HUPSJFpYFhJ16STu893KAAiNI/SYMAklqS/
+mtviW3fTkulDDlXuMF6sqGZHdXDpBBYzhrfBZmvLyJIPftVoDB1/GIBAEqtnXRSn
+H3wsptzTk5kAPKZJ2t/h4EMM2S8JICpiGAmY97J0FTiaoUWDEeaBVNdLneLRGo2z
+76O6e7Uio2pEtZP8R0ib5Ctr1WKgiPMjOklc4NSoyA0RRquni40=
+=0ZJu
+-----END PGP SIGNATURE-----

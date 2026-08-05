@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: Amiberry
+Label: Amiberry
+Architecture: arm64
+Description: Amiberry APT repository (Ubuntu 25.10 Questing)

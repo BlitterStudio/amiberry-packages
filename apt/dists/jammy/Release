@@ -1,0 +1,29 @@
+Origin: Amiberry
+Label: Amiberry
+Suite: stable
+Codename: jammy
+Date: Wed, 05 Aug 2026 17:48:15 UTC
+Architectures: amd64 arm64
+Components: main
+Description: Amiberry APT repository (Ubuntu 22.04 Jammy)
+MD5Sum:
+ 72afd48021f425b66cacd4819b0b23d5 1434 main/binary-amd64/Packages
+ df14366dfe33b0f86f15e3ef339035b0 801 main/binary-amd64/Packages.gz
+ a8ceccfef452745bf0d899f18d759907 143 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
+ 25a1c81af77c82e1bf6213fd33a0a355 143 main/binary-arm64/Release
+SHA1:
+ b7f1d3e8df80858f86cab0c2d2134eaf8b265a78 1434 main/binary-amd64/Packages
+ dcdc6301234dc7993ea07af7c3424f9357a67463 801 main/binary-amd64/Packages.gz
+ bed706fb81902519d0f100c14534249fb44a0958 143 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
+ 8ca3bc00cd22a7cd222db9598d41c9da112ef36c 143 main/binary-arm64/Release
+SHA256:
+ 787339d724b9ec4692de5da1c15ac4e9ee7ce553ce2aebb055b9c3756cccd45c 1434 main/binary-amd64/Packages
+ e3db526ac9be18900c51ec24a21d193e003358ef005d3a475174a6a502788eb3 801 main/binary-amd64/Packages.gz
+ 39764fb753a2795409c9bfc1d5f87754cc6d1a30144b4bcc9c87533e71cf1c3b 143 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
+ 5a7430af0ab773260a1f39a36aa0f3acdad43d8dd003f3fc7c005e87f476e0c5 143 main/binary-arm64/Release

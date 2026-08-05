@@ -1,0 +1,29 @@
+Origin: Amiberry
+Label: Amiberry
+Suite: stable
+Codename: trixie
+Date: Wed, 05 Aug 2026 17:48:17 UTC
+Architectures: amd64 arm64
+Components: main
+Description: Amiberry APT repository (Debian 13 Trixie)
+MD5Sum:
+ 046bc1a657bcd366bd6ee6618b3aa10b 1532 main/binary-amd64/Packages
+ d878c5b349c9352bbc9cb234bcd30c5e 828 main/binary-amd64/Packages.gz
+ 0c9cf4678d8a4431ea9e51b8ee1397f5 141 main/binary-amd64/Release
+ 081bcb437a8ca43ef988cb295649cedc 1532 main/binary-arm64/Packages
+ ecf989c888d0fcd5a261761ba9acf256 829 main/binary-arm64/Packages.gz
+ eee3a3dfbaa61d2c74c3f35241f4a47f 141 main/binary-arm64/Release
+SHA1:
+ 40535e71a48ad2a8b62aa50836ef33d4d2f4eb75 1532 main/binary-amd64/Packages
+ bee0000f1748750f09898b1a735ae1036d2ac196 828 main/binary-amd64/Packages.gz
+ 02c81a58c9387d9ae4a819f9febc155a83f44d32 141 main/binary-amd64/Release
+ 34c8a7e64568e40747008501a1e04e7212cfa2fb 1532 main/binary-arm64/Packages
+ 230cfedcb8d6f31e80a0ff937ab52a7b42edbbdf 829 main/binary-arm64/Packages.gz
+ f767073b6c2b2606a47bcd43946ea4e88ef2d75c 141 main/binary-arm64/Release
+SHA256:
+ 715465a8f6cb3552ed4f1a0bbd49f3b992bf9c220a898e4e5d90d6358410e87f 1532 main/binary-amd64/Packages
+ d040336649f5dc7796fc42d59d81ff9fc213cdf30ac252d5bf6506e92fbea88a 828 main/binary-amd64/Packages.gz
+ bc91b21e547722807bbd143019f1d569eb09f01f2cb8e7dd1ae8671fdd52e2b0 141 main/binary-amd64/Release
+ f3bd46850ebcd32d857c312d4e065fb5b85481c871ece5bd1165a681a6e9775c 1532 main/binary-arm64/Packages
+ 11487c06dd81c2553a8efbf2cfac83fde17c52d25fda9dbfad2b6a1f840233a7 829 main/binary-arm64/Packages.gz
+ d8820c509da36cccce7e389a1b57c4ab13324471d6d03f0928e75896a2a56e47 141 main/binary-arm64/Release

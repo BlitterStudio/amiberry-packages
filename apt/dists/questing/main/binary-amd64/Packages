@@ -1,0 +1,22 @@
+Package: amiberry
+Architecture: amd64
+Depends: libc6, libstdc++6, flac, libpng16-16, zlib1g, libcurl4, libglib2.0-0, libmpg123-0, libzstd1, libserialport0, libenet7, libmpeg2-4, libpcap0.8, libc6 (>= 2.42), libcurl4t64 (>= 7.16.2), libdbus-1-3 (>= 1.10), libenet7, libflac14 (>= 1.5.0), libgcc-s1 (>= 3.0), libglib2.0-0t64 (>= 2.78.0), libmpeg2-4 (>= 0.5.1), libmpg123-0t64 (>= 1.28.0), libopengl0, libpcap0.8t64 (>= 0.9.8), libpng16-16t64 (>= 1.6.46), libportmidi0, libserialport0 (>= 0.1.1), libstdc++6 (>= 14), libwayland-client0 (>= 1.20.0), libzstd1 (>= 1.5.5), zlib1g (>= 1:1.2.0)
+Priority: optional
+Section: otherosfs
+Filename: pool/main/a/amiberry/amiberry_8.3.0+questing_amd64.deb
+Size: 27906810
+SHA256: 1328ba676d0dff69a3b07980111bbf6b9f96813e16bb1c3a0b23601658cc4610
+SHA1: b6a7a6446ff9fd70f46bbcbf1bf0c1569699f96a
+MD5sum: 1dc4d422b7c81e43f608d7bed94e05a0
+Description: Optimized Amiga emulator for various platforms
+ Optimized Amiga emulator for various ARM64, AMD64 and RISC-V platforms.
+ Amiberry is an optimized Amiga emulator for various platforms. It is based on
+ the latest WinUAE and supports various Amiga models, including the A4000T,
+ A4000D, A1200, A3000 and A600. Additionally, it includes several unique
+ features, such as support for WHDLoad titles, RetroArch integration, custom
+ Controller Mappings and more.
+Homepage: https://amiberry.com
+Maintainer: Dimitris Panokostas <midwan@gmail.com>
+Version: 8.3.0+questing
+Installed-Size: 91353
+

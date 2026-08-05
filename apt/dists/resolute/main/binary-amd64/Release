@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: Amiberry
+Label: Amiberry
+Architecture: amd64
+Description: Amiberry APT repository (Ubuntu 26.04 Resolute)
