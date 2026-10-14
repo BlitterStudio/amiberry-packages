@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Amiberry
+Label: Amiberry
+Suite: stable
+Codename: questing
+Date: Wed, 14 Oct 2026 06:11:38 UTC
+Architectures: amd64 arm64
+Components: main
+Description: Amiberry APT repository (Ubuntu 25.10 Questing)
+MD5Sum:
+ 244e8d59ee9cdf187d8d8f07b5daf48b 1663 main/binary-amd64/Packages
+ bcfe7d9698f0e525817007919ec0b5f9 879 main/binary-amd64/Packages.gz
+ 1857f3faf3c90551dca916c0595e3e42 146 main/binary-amd64/Release
+ 6e67dcbea568a0cf39c72b31e82bfbe7 1735 main/binary-arm64/Packages
+ 91dc0679175ab7446f1f4c37e7d34fe4 896 main/binary-arm64/Packages.gz
+ b96b4e493cf57bc9bb09c8edd791285c 146 main/binary-arm64/Release
+SHA1:
+ a7faade6b64231dbd2e186dfc4e92935d57ebf88 1663 main/binary-amd64/Packages
+ 0aa74de8eb7f6f7a038fc6e3e0e201ccf66cd996 879 main/binary-amd64/Packages.gz
+ 1a5493df0e0852cf5f0b8be4e83dd4415d8d249b 146 main/binary-amd64/Release
+ b2c046c01bdea8c8147e973b8919affd024a8c14 1735 main/binary-arm64/Packages
+ 738bd2c1a98550943b256f0d237861cc61df4975 896 main/binary-arm64/Packages.gz
+ 41ef83660beba28bb261b161498ccf9bdc8d84e9 146 main/binary-arm64/Release
+SHA256:
+ 16015dc1eaf3b918db4752db5f2345cf116c4f509b41ef00a4e0f3133a92cfa5 1663 main/binary-amd64/Packages
+ 3f62673e546383a0f82534af9a9b368148b88e416841654968b8d204de004777 879 main/binary-amd64/Packages.gz
+ 23937f91bea1651b46f890e03e82621b9e2d04dc74f550714db73ca93ab5f91a 146 main/binary-amd64/Release
+ 608a49a6d7dce34e9dac628f2edf265c87d697d7cc161eb8022b210da3a6c10a 1735 main/binary-arm64/Packages
+ 92402c37eebea973b107603e3927d1e9cdd6792f83e5e68d2cb5325553e92078 896 main/binary-arm64/Packages.gz
+ 902602739772d0a430431a92d83b5e33ac210bf990bd2ca09aa37a560ab73d79 146 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEJ0FjRofeLy2NaDkVJxbP5zDayogFAmrPHRoACgkQJxbP5zDa
+yoibAg/+P+Y/IC0zSkhd8fxv9op8Ui2go8dSKc5xn4wFro9lUBYa9SGUHRiecLsf
+FVnYZMruvX5XHpBE/+kAiBBzcLoougkgXCUyXFWZTSPAqTu8YbFvvsOLC9UFCrbK
+t2bQV44S8GxL0Jeho5Q2wFuyEowCKGmryQhq20NCC8aojF19Yzr6zpw78MDnnz+e
+YiZE/Fk5AY1usL+A8adlRc5rCYUGz+sqNj7L8+d5gDwxOz0FQlyLNTqKPhBT7nRj
+V5ZySGwkCiPm6lDLRfW+L0bSgF+EUS1cFe2Lg8OEegwouoYkYEy+7wncTDRLqx6X
+T02wl12uWV2NhHvkac7MqSOGwpAsXUEwJc46WF2ibt8l+CHMADBxy88iiI4FOsXs
+H88LvAwkTJEW8IoGoCXGVYtBIROOBRjhqX6/VrG9U4AgqaVj9Lht/O+F3YlDoWNC
+g0sJQEf5ze4kQs08x3o6wSNO22nexS4d/zNW095Rlh2093c2USOJNYPK7jRGKsa+
+jaKub0Ua5e3uHhOcuG9fFzJCFvsWR9MPOWR+EZvAPv4GlVRSTe9oOZL2Y1aLdQXI
+dXoY59lmjLW4U/1bACW5ZQouL/itvC7DljcXq+s1qPjxcu48Jf3whzgc22pED8IQ
+98RBgOG6RlfumaiAdPhgD11JwSPDWlpshGnVybdtU+0kd5sPC48=
+=wkeY
+-----END PGP SIGNATURE-----

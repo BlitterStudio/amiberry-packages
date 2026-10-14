@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Amiberry
+Label: Amiberry
+Suite: stable
+Codename: jammy
+Date: Wed, 14 Oct 2026 06:11:37 UTC
+Architectures: amd64 arm64
+Components: main
+Description: Amiberry APT repository (Ubuntu 22.04 Jammy)
+MD5Sum:
+ 7bcca6f53475050201c04caf12510e86 1434 main/binary-amd64/Packages
+ 9052db00d1e764d1ef10ed8783893c7a 802 main/binary-amd64/Packages.gz
+ a8ceccfef452745bf0d899f18d759907 143 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
+ 25a1c81af77c82e1bf6213fd33a0a355 143 main/binary-arm64/Release
+SHA1:
+ 704e6e76ab891787238a8b45c4566f08f6ff17be 1434 main/binary-amd64/Packages
+ 1d81efc337151e8bf7eacbc127e166182d734294 802 main/binary-amd64/Packages.gz
+ bed706fb81902519d0f100c14534249fb44a0958 143 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
+ 8ca3bc00cd22a7cd222db9598d41c9da112ef36c 143 main/binary-arm64/Release
+SHA256:
+ ffecc7d7346e4cd02abc9147a0847259eee52a60cb3c041008224b96974f7efa 1434 main/binary-amd64/Packages
+ 3a25fb7e315a6fd12603d61e6b613ea995682460c9e1033e2b1dec0e215a310f 802 main/binary-amd64/Packages.gz
+ 39764fb753a2795409c9bfc1d5f87754cc6d1a30144b4bcc9c87533e71cf1c3b 143 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
+ 5a7430af0ab773260a1f39a36aa0f3acdad43d8dd003f3fc7c005e87f476e0c5 143 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEJ0FjRofeLy2NaDkVJxbP5zDayogFAmrPHRkACgkQJxbP5zDa
+yog+WQ//UNSZ0JUps5VyLmJvkthco18JfGLgkG6nXbU58GNcu85xWW0JvuP++5Ph
+y7J5h4Qg3smnvUba1Sbn8zpFqDytFk99/9/RjsEsMatrRdKx3oCJr5EVCuJqSekK
+hK20usE3uJ6ThKv7u58yn7pp/mgoTK1MmJubjVOaV5t60dzhB+KDbHeAQs3FXCmr
+f2pVq9QT93OLtu+2YMHo7KPUrT/7Cp81dXPMfoySm76xmgOYQ365jFbvBaE8EGhu
+4V9SiFVEKD4IVLUXIIsTjBOcZaTnKbjnwIurCkyRTAmcRkNJt38Qjx2xZJeyonyK
+m6jvPavLljurfSuOb2q1rTNGcijYqkXI/sCoJ7JLzTG/E9WVM+7EwgUb4FZx0dKZ
+c3sjcgOjzJxYF+msUhYuyLIttVlFqGvZzaj3eSEZDdMc/fFnwkC/pQw/jjHmiEzO
+P+Y4gLQMUbgbJRQTkSqbaOS4Ba6h+eR4D1BLOXFCJL8UW6ZG4uO2ziXC1/Xsh88m
+5HdNo991GGjnWtnhgozFwq+QR2GjikkapqjovisH6m22dEmCkGczWaL2GMAp0mJz
+YFckG1QJnLqhajPg0qtJDf3ALTmhge7+vEerL7tDlo7QtuEzHDiZaVr1YJUviHvU
+hqFmIKVHdheV1UOzJZEf/1F7QSd4YbSg30m9sYFpWxcE1yAQLUg=
+=PvXt
+-----END PGP SIGNATURE-----
