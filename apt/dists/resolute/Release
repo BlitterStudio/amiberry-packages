@@ -1,0 +1,29 @@
+Origin: Amiberry
+Label: Amiberry
+Suite: stable
+Codename: resolute
+Date: Mon, 19 Oct 2026 16:52:21 UTC
+Architectures: amd64 arm64
+Components: main
+Description: Amiberry APT repository (Ubuntu 26.04 Resolute)
+MD5Sum:
+ f5240fa5bcd0dd2d3c16392362d633b1 1801 main/binary-amd64/Packages
+ a76aebb63aa5310c5a8cdc182aad6ab9 917 main/binary-amd64/Packages.gz
+ 4f26471a4cdc28bf3052237556a00682 146 main/binary-amd64/Release
+ 9bd7d68f84b0e03061c23425e716de95 1801 main/binary-arm64/Packages
+ 83a92993fd7c81b5cdc7979dcf82a9ba 915 main/binary-arm64/Packages.gz
+ 45d4f929d9c034a6fec341180742d483 146 main/binary-arm64/Release
+SHA1:
+ 0d640f51cff3a7dda920b71d2c76932e400e359b 1801 main/binary-amd64/Packages
+ e7d6b43bdedd2a577ab49a98f58376ad50906329 917 main/binary-amd64/Packages.gz
+ aa57970bec6ed5f020b7deffa316e6bacea9f3dc 146 main/binary-amd64/Release
+ bd7c4bd95a8d5dd57e7dc63fae63dcd2c1bd474e 1801 main/binary-arm64/Packages
+ c1ef2408b3f8f5069f210a94428aa717c0557654 915 main/binary-arm64/Packages.gz
+ 218093cbb1da60ff235341a2ba68393af342bbbc 146 main/binary-arm64/Release
+SHA256:
+ 9743ae2d3942780adeb9c00d5ecce2423fda130ea3705f0282c2158906cbead4 1801 main/binary-amd64/Packages
+ 6f2d27a39f4eef19a5fa7f6fd318032e252f7b9dd3bd6ae4925a155a5cb157d7 917 main/binary-amd64/Packages.gz
+ 956a03c1813a2b3adc85c1cc7047596a987bef0e6e8c89ed9a30a5c39620c4be 146 main/binary-amd64/Release
+ bb89c9bb9f176bd057f158f78e5b862ebb9b21b47092f7c81060e1df0ee5edf7 1801 main/binary-arm64/Packages
+ c958a90299ce5fabfb710f67c00c59eb16d8df88692e7f9ebec279ddce89ab0b 915 main/binary-arm64/Packages.gz
+ 51c8f8b78b23415cd3d3370f4651e88704d3de48212c6ec738d71f91c240214a 146 main/binary-arm64/Release

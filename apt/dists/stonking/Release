@@ -1,0 +1,29 @@
+Origin: Amiberry
+Label: Amiberry
+Suite: stable
+Codename: stonking
+Date: Mon, 19 Oct 2026 16:52:22 UTC
+Architectures: amd64 arm64
+Components: main
+Description: Amiberry APT repository (Ubuntu 26.10 Stonking)
+MD5Sum:
+ 9067df0272b27c293a5a47f1d6fb4cab 1801 main/binary-amd64/Packages
+ 34a5b487f88d0013623bed23a4739c9d 914 main/binary-amd64/Packages.gz
+ 78358a3b6f785cf28932d68496d0fe4c 146 main/binary-amd64/Release
+ 490730dc0c6305fb6148823ef45abfbf 1801 main/binary-arm64/Packages
+ 97abe8c91ef0ed19d44b92489c299d88 920 main/binary-arm64/Packages.gz
+ 722aeebbb8b66a61b6248f2bb0bc234c 146 main/binary-arm64/Release
+SHA1:
+ 16601b5e47182a91d9c62b21046381cddafe0e4b 1801 main/binary-amd64/Packages
+ d8d3448870979537b150850cbd20a5130c5347dd 914 main/binary-amd64/Packages.gz
+ 546928a1686eee4c5c5002e6c8c8c1c1ba299563 146 main/binary-amd64/Release
+ 851e8e2b1601c8dc426923778e3bf9b4ec4d7fd6 1801 main/binary-arm64/Packages
+ ccb0b5cf7b65f4366718d8858202933103192193 920 main/binary-arm64/Packages.gz
+ db57b2d5f4518b5fa5a95bb9c51c2383177a4039 146 main/binary-arm64/Release
+SHA256:
+ bd9d769090c105a10d47aa685c0b55f71d46d89f7ecf18cbcdda194e17e1c3e1 1801 main/binary-amd64/Packages
+ 24c1cb816e170454f59642f64b5670d5fb57d19c6c1ffc9d568f4e4fc1688a4b 914 main/binary-amd64/Packages.gz
+ dadb9e526b6906bedf65084bbfa21502f6c80ba3d1926e40529a44670ad69cdd 146 main/binary-amd64/Release
+ ba4e0c1b881b3a74b226f504e3d299daa226bcdbd52c2111d0a6826d6a86f034 1801 main/binary-arm64/Packages
+ c4f2f117d6ad51161b6cc01241de74629aae782af8964494bd8b6501df8c136a 920 main/binary-arm64/Packages.gz
+ d8b656f8b38d8f2db274414b5590a56daa30d3d0d322ac5ac4b76c10ea4d2324 146 main/binary-arm64/Release

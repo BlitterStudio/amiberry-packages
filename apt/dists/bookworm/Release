@@ -1,0 +1,29 @@
+Origin: Amiberry
+Label: Amiberry
+Suite: stable
+Codename: bookworm
+Date: Mon, 19 Oct 2026 16:52:20 UTC
+Architectures: amd64 arm64
+Components: main
+Description: Amiberry APT repository (Debian 12 Bookworm)
+MD5Sum:
+ 71da13e095f6808244f75a18fe6adaf4 1687 main/binary-amd64/Packages
+ 735bd12d8b622687b0b6a45ec743ec62 887 main/binary-amd64/Packages.gz
+ ef1e59185427adad180cecd9d4eda15b 143 main/binary-amd64/Release
+ 7a35bc0a01e04130bacf967cd0401fe4 1488 main/binary-arm64/Packages
+ f9223b73c4b1fe81fc97f1e95386d28a 822 main/binary-arm64/Packages.gz
+ a538c1fef2c9eced20ae591065819e14 143 main/binary-arm64/Release
+SHA1:
+ 3e20f7e72b6b0b0387fc3ea43d6565446f515bed 1687 main/binary-amd64/Packages
+ 49ab5c8f90f98f81a0957f40b681b48e6050abff 887 main/binary-amd64/Packages.gz
+ 59d521d7f6362245d02319757222c6501032d5c4 143 main/binary-amd64/Release
+ 3b4825a9c174477923d9b18cbf858bbed44709c1 1488 main/binary-arm64/Packages
+ 7676f536b821b8ffd6ceb990f61d5b5057119276 822 main/binary-arm64/Packages.gz
+ b5a4d7bb482f90975892689fafdb61c728a3cea7 143 main/binary-arm64/Release
+SHA256:
+ 89b3f79509120106bacfeca4086e167b193853787445582089cbd8bb4d1993e3 1687 main/binary-amd64/Packages
+ a6d14dfd72895e46f2727e5df894495d0c49a6efa2712ac3f45c5115e6b8e802 887 main/binary-amd64/Packages.gz
+ f30d0279586e2958a61f5a431b9d1434107e725ee33227a9a664589f5b681e08 143 main/binary-amd64/Release
+ 40ac219196148c7a5e2f8c2567b135cb0f1757a3556389fc353bfc2db20c3a72 1488 main/binary-arm64/Packages
+ de021fa1c43491d1acdaa97deb8e00519b6c73edd0a7793667b98afded2d1ff8 822 main/binary-arm64/Packages.gz
+ f041de08540ab74be956d22dd55d04aae28d15cbea81b79a09b060201ab08307 143 main/binary-arm64/Release
