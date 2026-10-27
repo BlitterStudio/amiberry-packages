@@ -1,0 +1,22 @@
+Package: amiberry
+Architecture: arm64
+Depends: libc6, libstdc++6, flac, libpng16-16, zlib1g, libcurl4, libglib2.0-0, libmpg123-0, libzstd1, libserialport0, libenet7, libmpeg2-4, libpcap0.8, libavcodec59 (>= 7:5.1.9) | libavcodec-extra59 (>= 7:5.1.9), libavformat59 (>= 7:5.1.9) | libavformat-extra59 (>= 7:5.1.9), libavutil57 (>= 7:5.1), libc6 (>= 2.36), libcurl4 (>= 7.16.2), libdbus-1-3 (>= 1.9.16), libenet7, libflac12 (>= 1.3.0), libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.67.3), libmpeg2-4 (>= 0.5.1), libmpg123-0 (>= 1.28.0), libopengl0, libpcap0.8 (>= 0.9.8), libpng16-16 (>= 1.6.2-1), libportmidi0, libserialport0, libstdc++6 (>= 12), libswresample4 (>= 7:5.1), libswscale6 (>= 7:5.0), libwayland-client0 (>= 1.20.0), libwebp7 (>= 1.2.4), libwebpdemux2 (>= 1.2.4), libzstd1 (>= 1.5.2), zlib1g (>= 1:1.2.0)
+Priority: optional
+Section: otherosfs
+Filename: pool/main/a/amiberry/amiberry_8.5.0+bookworm_arm64.deb
+Size: 22241182
+SHA256: 68fc66a903527a8f29ba05ff6b1601ae208ecbfc938483255bc91a9967c74f49
+SHA1: ab58baa3c1c161bf068fe7b9dd7bc03a863b76c3
+MD5sum: c6315dcd7b1058fe1ca27414aee7446d
+Description: Optimized Amiga emulator for various platforms
+ Optimized Amiga emulator for various ARM64, AMD64 and RISC-V platforms.
+ Amiberry is an optimized Amiga emulator for various platforms. It is based on
+ the latest WinUAE and supports various Amiga models, including the A4000T,
+ A4000D, A1200, A3000 and A600. Additionally, it includes several unique
+ features, such as support for WHDLoad titles, RetroArch integration, custom
+ Controller Mappings and more.
+Homepage: https://amiberry.com
+Maintainer: Dimitris Panokostas <midwan@gmail.com>
+Version: 8.5.0+bookworm
+Installed-Size: 72826
+

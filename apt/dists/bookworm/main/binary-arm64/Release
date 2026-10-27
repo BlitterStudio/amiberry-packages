@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: Amiberry
+Label: Amiberry
+Architecture: arm64
+Description: Amiberry APT repository (Debian 12 Bookworm)

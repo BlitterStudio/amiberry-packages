@@ -1,0 +1,29 @@
+Origin: Amiberry
+Label: Amiberry
+Suite: stable
+Codename: questing
+Date: Tue, 27 Oct 2026 22:17:00 UTC
+Architectures: amd64 arm64
+Components: main
+Description: Amiberry APT repository (Ubuntu 25.10 Questing)
+MD5Sum:
+ 5ca557c5a4bce2a464fa085216b4781b 1710 main/binary-amd64/Packages
+ d0343232a0f52f3b80c4775cfc00e137 891 main/binary-amd64/Packages.gz
+ 1857f3faf3c90551dca916c0595e3e42 146 main/binary-amd64/Release
+ d905125bed43741e6c93e5f5393dbab9 1782 main/binary-arm64/Packages
+ 4f85c8d59921c24ca5ae05b4758d2e05 910 main/binary-arm64/Packages.gz
+ b96b4e493cf57bc9bb09c8edd791285c 146 main/binary-arm64/Release
+SHA1:
+ 8da32fd01c447567c3dfeedebb0cf1f18cae968a 1710 main/binary-amd64/Packages
+ 7aa5188630007676b3e780c2648fcb07011bd203 891 main/binary-amd64/Packages.gz
+ 1a5493df0e0852cf5f0b8be4e83dd4415d8d249b 146 main/binary-amd64/Release
+ c56138b27dfbb2f35c3a56db8424e9baf776caef 1782 main/binary-arm64/Packages
+ 237d12fa166f4116520055b0fe92944645c01561 910 main/binary-arm64/Packages.gz
+ 41ef83660beba28bb261b161498ccf9bdc8d84e9 146 main/binary-arm64/Release
+SHA256:
+ 9fdb112dd3f0268ae99bcee1499051fa93ea2135d5eab943a77ab8759e4f9115 1710 main/binary-amd64/Packages
+ bf7f487f8f2ca6781d88034958544b66107232ff6260f146e4cf7b1f3289a50d 891 main/binary-amd64/Packages.gz
+ 23937f91bea1651b46f890e03e82621b9e2d04dc74f550714db73ca93ab5f91a 146 main/binary-amd64/Release
+ d8ee43c8be64ee0e1d656f90e70644e0b05e0212e77aaffb99c5fb9de878756a 1782 main/binary-arm64/Packages
+ d0d2a025ade091b2675f33ca1e61bb11532547c463bdfb4b56ddd4206b4c35cc 910 main/binary-arm64/Packages.gz
+ 902602739772d0a430431a92d83b5e33ac210bf990bd2ca09aa37a560ab73d79 146 main/binary-arm64/Release

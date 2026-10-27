@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Amiberry
+Label: Amiberry
+Suite: stable
+Codename: bookworm
+Date: Tue, 27 Oct 2026 22:16:58 UTC
+Architectures: amd64 arm64
+Components: main
+Description: Amiberry APT repository (Debian 12 Bookworm)
+MD5Sum:
+ d43fbf461e6e64919ec67efbfc2161a8 1687 main/binary-amd64/Packages
+ deec0249682e42a2f5fedbde85031da2 888 main/binary-amd64/Packages.gz
+ ef1e59185427adad180cecd9d4eda15b 143 main/binary-amd64/Release
+ 4dce1206b81d31f3ecc6795459603d6a 1687 main/binary-arm64/Packages
+ ea6735e1d8a72f7dc48a02b0791da073 887 main/binary-arm64/Packages.gz
+ a538c1fef2c9eced20ae591065819e14 143 main/binary-arm64/Release
+SHA1:
+ 21f70b54de2d2d7eef10b79cb413c591151422ac 1687 main/binary-amd64/Packages
+ c4c07ef328c734e444c0c51dd42320a631c91752 888 main/binary-amd64/Packages.gz
+ 59d521d7f6362245d02319757222c6501032d5c4 143 main/binary-amd64/Release
+ 264a45cb4f232713581ec0e714b73bf99ea6b930 1687 main/binary-arm64/Packages
+ 13132f83fb23515fb9f52668c8f089c268817eab 887 main/binary-arm64/Packages.gz
+ b5a4d7bb482f90975892689fafdb61c728a3cea7 143 main/binary-arm64/Release
+SHA256:
+ 58ee171f66f00fcaf38fe56638cb656616e94f55246a26f779ec6d13054919e6 1687 main/binary-amd64/Packages
+ 85010f996c4c3d7818b3d847c9694999c385fee456d295a356d60a8429750a70 888 main/binary-amd64/Packages.gz
+ f30d0279586e2958a61f5a431b9d1434107e725ee33227a9a664589f5b681e08 143 main/binary-amd64/Release
+ 58635f065fbe2423e603c9f72c089f7aa14d3fcd0851698f52d26516d54884c5 1687 main/binary-arm64/Packages
+ bc713eb0a1ba19ebf82587e518d384b252db9c957f5c40e82876da7d999f2532 887 main/binary-arm64/Packages.gz
+ f041de08540ab74be956d22dd55d04aae28d15cbea81b79a09b060201ab08307 143 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEJ0FjRofeLy2NaDkVJxbP5zDayogFAmrhItoACgkQJxbP5zDa
+yojV+w//aRxP+CfsbbtKLNKtz3yvTZ406ZBLrV87fyKkST3WxezlAxH75tdMjp9A
+Qvo/loMPeW7k9+42VsFxEJnquIZhyUZUODKv8bXkJcJCeW8rOIdjKZCHf9Z0EoFM
+M45ksOuZwTjbE7Kp/iahpmuDJqIIuDxUI5wyupiI2OGuvUqAUNrRdDcb4dp+J4vV
+5ffATSI5bCZgG8l2HbIAfzTAaL810ozETlIaJdKwnyYhpza8BFxfzqjLk7zRoefP
+3Zzz5K/x4Z119fKzdhEjpGdPjU5gm8GrAMPzOlwcOvZsbwg6XnrYsfCcDvqQgE8P
+f4EFT+zKoZBbCbNaqQgKdjhBNB4BWHfd9wPFT88yNpTcYNjwIavHOXCUfAUcuCw8
+h/X6P9j5bAGbsSTL958sRfgp8KtazZ5j0f4rdXyV06g3b1c3IEfMchaKESdw3iW5
+Chph3szoHvSKBzPhBfmOxA8e0t+D23s9E0lT5JNpeGbOUfHkFNtdu+PV5RfQBx/F
+X5bpXixZ5a/Gpfjpol9wJsTSHPhRqbx1Bv+IrO+y7FCBV/ZM6GB5yN1TUsCNgnYJ
+Xny2U0cxmSEo0wIoCRdi/5OqaURgBIEF0AKqNcLiiqCPWxFwuNoId7AvKpka1D7l
+/KcD88M9Wo+wjjvaXoIIYhDDmf7lV9QTgZ/wq6rfq13ME3ujSVs=
+=nzWD
+-----END PGP SIGNATURE-----

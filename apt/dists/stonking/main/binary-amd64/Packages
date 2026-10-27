@@ -1,0 +1,22 @@
+Package: amiberry
+Architecture: amd64
+Depends: libc6, libstdc++6, libsdl3-0, libsdl3-image0, flac, libpng16-16, zlib1g, libcurl4, libglib2.0-0, libmpg123-0, libzstd1, libserialport0, libenet7, libmpeg2-4, libpcap0.8, libavcodec62 (>= 7:8.1.2) | libavcodec-extra62 (>= 7:8.1.2), libavformat62 (>= 7:8.1.2) | libavformat-extra62 (>= 7:8.1.2), libavutil60 (>= 7:8.1.2), libc6 (>= 2.43), libcurl4t64 (>= 7.16.2), libdbus-1-3 (>= 1.10), libenet7, libflac14 (>= 1.5.0), libgcc-s1 (>= 3.0), libgl1, libglib2.0-0t64 (>= 2.78.0), libmpeg2-4 (>= 0.5.1), libmpg123-0t64 (>= 1.28.0), libpcap0.8t64 (>= 0.9.8), libpng16-16t64 (>= 1.6.46), libportmidi2 (>= 2:2.0.8), libsdl3-0 (>= 3.2.0), libsdl3-image0 (>= 3.2.0), libserialport0 (>= 0.1.1), libstdc++6 (>= 14), libswresample6 (>= 7:8.1.2), libswscale9 (>= 7:8.1.2), libwayland-client0 (>= 1.20.0), libwebp7 (>= 1.6.0), libwebpdemux2 (>= 1.6.0), libzstd1 (>= 1.5.5), zlib1g (>= 1:1.2.0)
+Priority: optional
+Section: otherosfs
+Filename: pool/main/a/amiberry/amiberry_8.5.0+stonking_amd64.deb
+Size: 23318942
+SHA256: 74dd500b5a903a629b6139981ff6d6f9b6fcb71439228ca7c24211d7dc05230e
+SHA1: 13acfbe7e54f546982786792fd02e87dad3d2d29
+MD5sum: 4efefea833a50bd7236978d5a38478b0
+Description: Optimized Amiga emulator for various platforms
+ Optimized Amiga emulator for various ARM64, AMD64 and RISC-V platforms.
+ Amiberry is an optimized Amiga emulator for various platforms. It is based on
+ the latest WinUAE and supports various Amiga models, including the A4000T,
+ A4000D, A1200, A3000 and A600. Additionally, it includes several unique
+ features, such as support for WHDLoad titles, RetroArch integration, custom
+ Controller Mappings and more.
+Homepage: https://amiberry.com
+Maintainer: Dimitris Panokostas <midwan@gmail.com>
+Version: 8.5.0+stonking
+Installed-Size: 64926
+
